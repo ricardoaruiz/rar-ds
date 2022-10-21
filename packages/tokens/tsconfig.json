@@ -1,0 +1,6 @@
+{
+  "extends": "@rar-ui/ts-config/base.json",
+  "include": [
+    "src"
+  ]
+}

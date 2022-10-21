@@ -1,0 +1,5 @@
+{
+  "extends": [
+    "@rar-ui/eslint-config"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "extends": "@rar-ui/ts-config/react.json",
+  "include": [
+    "src"
+  ]
+}
