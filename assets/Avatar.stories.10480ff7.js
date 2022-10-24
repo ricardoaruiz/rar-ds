@@ -1,0 +1,2 @@
+import{A as r}from"./index.7094a90f.js";import"./index.3ddb879a.js";import"./iframe.be54c2ed.js";import"./index.3be7879f.js";import"./jsx-runtime.4038a36c.js";const c={title:"Data display/Avatar",component:r,args:{src:"https://github.com/ricardoaruiz.png",alt:"Ricardo Ruiz"}},m={},p={args:{src:void 0}},l=["Primary","WithFallback"];export{m as Primary,p as WithFallback,l as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories.10480ff7.js.map
